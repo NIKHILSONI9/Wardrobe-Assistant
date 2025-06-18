@@ -50,10 +50,7 @@ streamlit run finalward.py
 2. Click "Start Live Video" to overlay the shirt on your body using pose detection.
 3. The app removes the background from the shirt image and adjusts it based on your pose.
 
-## Team Members
-
 - **Nikhil Soni** - 221b251
-- **Nirmal Singh** - 221b252
-- **Prakash Mani Patel** - 221b268
+
 
 ---
